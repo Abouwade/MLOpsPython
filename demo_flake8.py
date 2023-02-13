@@ -5,4 +5,3 @@ from pathlib import Path
 
 package_dir = Path(__file__).parent.absolute()
 print(package_dir)
-
